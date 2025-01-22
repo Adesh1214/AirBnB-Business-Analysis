@@ -21,6 +21,9 @@ This project focuses on analyzing Airbnb datasets using Python and Pandas. The J
 ### 2.Pandas: For data manipulation and cleaning.
 ### 3.Matplotlib/Seaborn: For data visualization.
 ### 4.Jupyter Notebook: Interactive environment for combining code, visualizations, and narrative text.
+### 5.Kaggle : To use the AirBnB Listings & Reviews Dataset .
+
+### Kaggle Dataset link - : https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
 
 ## Future Enhancements :
 ### 1.Integration of machine learning models to predict Airbnb prices.
