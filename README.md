@@ -32,9 +32,17 @@ This project focuses on analyzing Airbnb datasets using Python and Pandas. The J
 4. Jupyter Notebook: Interactive environment for combining code, visualizations, and narrative text.
 5. Kaggle : To use the AirBnB Listings & Reviews Dataset .
 
-## Future Enhancements :
-1. Integration of machine learning models to predict Airbnb prices.
-2. Automated dashboards for real-time data visualization.
-3. Deeper analysis of customer reviews for sentiment insights.
+# Final Insights
+1. Since the launch, the number of AirBnBs has increased, and prices have increased, too, due to initial traction and early adopters.
+2. After the Startup is known to everyone and becomes a common utility, the number of AirBnBs starts increasing, and prices also keep decreasing.
+3. After regulations were announced around 2015, there was underconfidence in the business; the number of AirBnBs started decreasing and prices started increasing.
+4. Once the regulation became the new normal, during the year 2019, the number of AirBnBs increased, and prices kept decreasing due to more supply of them.
 
-# 
+# Recommnedation for AirBnB-
+1. Regulation in long-term rentals can impact the business adversely; there might be customer churn due to uncertainty.
+2. Such regulations might add to AirBnB losses, which might be difficult to recover later.
+3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
+4. It is recommended to watch for any such regulation in other places and be prepared for it.
+5. AirBnB can replicate such a regulation in other places.
+6. They can keep strict rules to onboard and release the hosts.
+7. They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
