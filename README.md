@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/681b5272-7c64-4f91-ae69-67d16a7f3218" width="900" height="400"/>
+
 # AirBnB-Buisness-Analysis
 This project focuses on analyzing Airbnb datasets using Python and Pandas. The Jupyter Notebook (airbnb.ipynb) provides insights into trends, pricing, customer preferences, and other key metrics to help understand Airbnb's market dynamics.
 
