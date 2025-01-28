@@ -2,7 +2,6 @@
 This project focuses on analyzing Airbnb datasets using Python and Pandas. The Jupyter Notebook (airbnb.ipynb) provides insights into trends, pricing, customer preferences, and other key metrics to help understand Airbnb's market dynamics.
 
 ### Kaggle Dataset link - : https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews
-### Kaggle Notebook Link -: https://www.kaggle.com/code/adesh1214/airbnb
 
 ## Key Features
 ### 1.Data Cleaning and Preparation : 
